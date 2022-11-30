@@ -1,6 +1,6 @@
-<div align="center"> <h1>Bonjour, je suis Emmanuel Martinez<h1>
+<div align="center"> <h1>Bonjour, je suis Emmanuel Martinez<h1></div>
   [size=2]<p>Ancien aiguilleur à la SNCF en reconversion dans le domaine de la tech, actuellement en formation de développement web et web-mobile à la Wild Code School.<p>[/size]
-  </div>
+  
 
 <!--
 **MartinezEmmanuel03/MartinezEmmanuel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
