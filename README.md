@@ -1,5 +1,5 @@
-<div align="center"> <h1>Bonjour, je suis Emmanuel Martinez<h1></div>
-  [size=2]<p>Ancien aiguilleur à la SNCF en reconversion dans le domaine de la tech, actuellement en formation de développement web et web-mobile à la Wild Code School.<p>[/size]
+# Bonjour, je suis Emmanuel Martinez<h1>
+Ancien aiguilleur à la SNCF en reconversion dans le domaine de la tech, actuellement en formation de développement web et web-mobile à la Wild Code School.
   
 
 <!--
