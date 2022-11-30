@@ -1,4 +1,4 @@
-[center]Bonjour, je suis Emmanuel Martinez[center]
+<div align="center">Bonjour, je suis Emmanuel Martinez</div>
 
 <!--
 **MartinezEmmanuel03/MartinezEmmanuel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
