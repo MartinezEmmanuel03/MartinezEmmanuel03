@@ -12,7 +12,6 @@ Ancien aiguilleur à la SNCF en reconversion dans le domaine de la tech, actuell
   - MySQL
   
   Vous pouvez avoir un aperçu de mes capacités à travers ces projets développés en parallèle de ma formation:
-  - [Projet 1](https://github.com/WildCodeSchool/2022-09-JS-RMT-JSCREW-TEAM-A){:target="_blank" rel="noopener"} de la formation avec HTML, CSS et Javascript.
   - <a href="https://github.com/WildCodeSchool/2022-09-JS-RMT-JSCREW-TEAM-A" target=”_blank”>Projet 1</a> de la formation avec HTML, CSS et Javascript.
   - <a href="https://github.com/WildCodeSchool/2022-09-JS-RMT-JSCREW-projet2-team1" target=”_blank”>Projet 2</a> de la formation avec React, Bootstrap, MySQL, Express.
   - <a href="https://github.com/vassili45/Hackathon-1" target=”_blank”>Hackathon 1</a> sur le thème du voyage.
