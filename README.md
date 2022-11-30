@@ -1,5 +1,5 @@
 # Bonjour, je suis Emmanuel Martinez<h1>
-Ancien aiguilleur à la SNCF en reconversion dans le domaine de la tech, actuellement en formation de développement web et web-mobile à la Wild Code School.
+Ancien aiguilleur à la SNCF en reconversion dans le domaine de la tech, actuellement en formation de développement web et web-mobile à la Wild Code School.  
 **Les technologies que j'apprends:**
   - HTML
   - CSS
